@@ -1,0 +1,482 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Dr. Heberto R. Priego Álvarez",
+      "position": "Presidente",
+      "work": "División Académica de Ciencias de la Salud, Universidad Juárez Autónoma de Tabasco(México)",
+      "email": "h****@hotmail.com",
+      "role": "directive"
+    },
+    {
+      "id": 2,
+      "name": "Dra. Nery Suárez Lugo",
+      "position": "Secretaria General",
+      "work": "Escuela Nacional de Salud Pública, Ministerio de Salud Pública (Cuba)",
+      "email": "n****@infomed.sld.cu",
+      "role": "directive"
+    },
+    {
+      "id": 3,
+      "name": "Mtra. María Elena Lara Gallegos",
+      "position": "",
+      "work": "División Académica de Ciencias de la Salud, Universidad Juárez Autónoma de Tabasco (México)",
+      "email": "m****@hotmail.com",
+      "role": "directive"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Camilo Torres Serna",
+      "position": "Vocal Académico",
+      "work": "Universidad del Valle, Universidad Libre (Colombia)",
+      "email": "c****@yahoo.com",
+      "role": "directive"
+    },
+    {
+      "id": 5,
+      "name": "M.Sc. Xinia Alvarado Zeledón",
+      "position": "Secretaria Ejecutiva",
+      "work": "Universidad de Costa Rica",
+      "email": "x****@ucr.ac.cr",
+      "role": "secretary"
+    },
+    {
+      "id": 6,
+      "name": "M.Sc. Kattia Medina Arias",
+      "position": "Comisionada de Afiliación y Control de Socios",
+      "work": "Universidad de Costa Rica",
+      "email": "k****@ucr.ac.cr ",
+      "role": "secretary"
+    },
+    {
+      "id": 7,
+      "name": "Mtro. Juan Antonio Córdova Hernández",
+      "position": "Comisionado de Difusión y Divulgación",
+      "work": "Universidad Juárez Autónoma de Tabasco",
+      "email": "r****@gmail.com ",
+      "role": "secretary"
+    },
+    {
+      "id": 8,
+      "name": "Dra. Mireya Alvear de Moreno",
+      "position": "Comisionada de Asuntos Internacionales",
+      "work": "Caja Panameña de Seguridad Social",
+      "email": "m****@hotmail.com",
+      "role": "secretary"
+    },
+    {
+      "id": 9,
+      "name": "Mgtra. Malvina Díaz de Ceballos",
+      "position": "Comisionada de Eventos Sociales y Culturales",
+      "work": "Universidad de Panamá",
+      "email": "m****@hotmail.com",
+      "role": "secretary"
+    },
+    {
+      "id": 10,
+      "name": "Mtro. Julio Gutiérrez Méndez",
+      "position": "Comisionado de Capacitación, Educación Continua y Eventos Académicos",
+      "work": "Instituto Mexicano del Seguro Social",
+      "email": "j****@imss.gob.mx",
+      "role": "secretary"
+    },
+    {
+      "id": 11,
+      "name": "Ing. Juan D. Morelli",
+      "position": "",
+      "work": "Argentina",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 12,
+      "name": "Lic. Martha Mérida",
+      "position": "",
+      "work": "Bolivia",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 13,
+      "name": "Moacyr Ely Menéndez Castillero",
+      "position": "",
+      "work": "Brasil",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 14,
+      "name": "Mtro. Claudio Rodolfo Barrales Díaz",
+      "position": "",
+      "work": "Chile",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 15,
+      "name": "Dr. Javier Leonardo Gonzalez Rodriguez",
+      "position": "",
+      "work": "Colombia",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 16,
+      "name": "Dr. Daniel Salas Peraza",
+      "position": "",
+      "work": "Costa Rica",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 17,
+      "name": "Dra. Ana Julia García Miliám",
+      "position": "",
+      "work": "Cuba",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 18,
+      "name": "Magíster Margarita Freire Acosta",
+      "position": "",
+      "work": "Ecuador",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 19,
+      "name": "Dr. Joan Carlés March Cerdá",
+      "position": "",
+      "work": "España",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 20,
+      "name": "Mtro. Antonio Heras Gómez",
+      "position": "",
+      "work": "México",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 21,
+      "name": "Dr. Mariano Salazar Castellón",
+      "position": "",
+      "work": "Nicaragua",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 22,
+      "name": "Dra. Mireya Alvear de Moreno",
+      "position": "",
+      "work": "Panamá",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 23,
+      "name": "Dra. Nidia Carolina González Riveros",
+      "position": "",
+      "work": "Paraguay",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 24,
+      "name": "Dra. Marina Caján Villanueva",
+      "position": "",
+      "work": "Perú",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 25,
+      "name": "Dra. Paula Remoaldo",
+      "position": "",
+      "work": "Portugal",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 26,
+      "name": "Dr. Alfredo Toledo Ivaldo",
+      "position": "",
+      "work": "Uruguay",
+      "email": "",
+      "role": "delegate"
+    },
+    {
+      "id": 27,
+      "name": "Dr. Rafael Muñiz",
+      "position": "",
+      "work": "Venezuela",
+      "email": "",
+      "role": "delegate"
+    },
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Congreso Iberoamericano de marketing y servicio al cliente en el sector salud",
+      "description": "Dos días de imersión total para compartir junto a connotados expertos nacionales e internacionales, los últimos avances y las mejores prácticas mundiales de esta disciplina",
+      "location": "Bogotá, Colombia",
+      "startdate": 1440565200000,
+      "enddate": 1440651600000
+    },
+    {
+      "id": 2,
+      "name": "XII Congreso internacional COLPARMEX \"Visión de Clase Mundial\"",
+      "description": "Punto  de  convergencia  para  los  profesionales  de  la  investigación,  la academia y la consultoría a nivel posgraduados en las diferentes áreas de la administración coadyuvando en  la  conformación  de  redes  de  colaboración,  difusión  y  promoción  de  conocimientos  de  frontera  en  el país.",
+      "location": "México, D.F.",
+      "startdate": 1444021200000,
+      "enddate": 1444021200000
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "name": "Mercadotecnia en Salud. Aspectos Básicos y Operativos",
+      "ptype": "book",
+      "link": "https://books.google.com.mx/books/about/Mercadotecnia_en_salud.html?id=xs_WAAAACAAJ&redir_esc=y"
+    },
+    {
+      "id": 2,
+      "name": "CREATIVIDAD en muy pocas palabras",
+      "ptype": "book",
+      "link": "http://www.catorse-scs.com/libros/creatividad.html"
+    },
+    {
+      "id": 3,
+      "name": "SALUD PÚBLICA en muy pocas palabras",
+      "ptype": "book",
+      "link": "http://www.catorse-scs.com/libros/salud_publica.html"
+    },
+    {
+      "id": 4,
+      "name": "MARKETING en muy pocas palabras",
+      "ptype": "book",
+      "link": "http://www.catorse-scs.com/libros/marketing.html"
+    },
+    {
+      "id": 5,
+      "name": "Marketing y Salud: Una perspectiva teórico-práctica",
+      "ptype": "book",
+      "link": "http://www.catorse-scs.com/libros/marketing_salud.html"
+    },
+    {
+      "id": 6,
+      "name": "Filosofía del Servicio en Salud",
+      "ptype": "book",
+      "link": "http://www.catorse-scs.com/libros/filosofia_ss.html"
+    },
+    {
+      "id": 7,
+      "name": "O Sofrimento Oculto",
+      "ptype": "book",
+      "link": ""
+    },
+    {
+      "id": 8,
+      "name": "Mercadotecnia en salud: Aspectos básicos y operativos",
+      "ptype": "book",
+      "link": "https://books.google.com.mx/books?id=WBvnoAEACAAJ&dq=%22mercadotecnia+en+salud%22+heberto+priego&hl=es-419&sa=X&redir_esc=y"
+    },
+    {
+      "id": 9,
+      "name": "Influencia de los Estilos de Dirección sobre las Culturas Organizacionales Orientadas al Mercado",
+      "ptype": "book",
+      "link": "https://books.google.com.mx/books?id=tWsSAQAAIAAJ&q=%22Influencia+de+los+Estilos+de+Direcci%C3%B3n+sobre+las+Culturas+Organizacionales+Orientadas+al+Mercado"
+    },
+    {
+      "id": 10,
+      "name": "Auditoría de la Gestión de Mercadotecnia aplicada a los servicios de salud",
+      "ptype": "book",
+      "link": "http://www.catorse-scs.com/libros/auditoria.html"
+    },
+    {
+      "id": 11,
+      "name": "Culturas Organizacionales orientadas al mercado: Un modelo para su implementación",
+      "ptype": "book",
+      "link": "https://books.google.com.mx/books?id=tWsSAQAAIAAJ&q=%22Culturas+Organizacionales+orientadas+al+mercado:+Un+modelo+para+su+implementaci%C3%B3n"
+    },
+    {
+      "id": 12,
+      "name": "Mercadeo integral en servicios de salud",
+      "ptype": "book",
+      "link": "https://books.google.com.mx/books?id=3o-btAEACAAJ&dq=%22Mercadeo+integral+en+servicios+de+salud%22&hl=es-419&sa=X&ved=0ahUKEwi6sefUjIjkAhULIKwKHbClDa0Q6AEIKTAA"
+    },
+    {
+      "id": 13,
+      "name": "Horizonte Sanitario",
+      "ptype": "magazine",
+      "link": "http://revistas.ujat.mx/index.php/horizonte"
+    },
+    {
+      "id": 14,
+      "name": "Hitos de Ciencias Economico Administrativas",
+      "ptype": "magazine",
+      "link": "http://revistas.ujat.mx/index.php/hitos"
+    },
+    {
+      "id": 15,
+      "name": "Salud en Tabasco",
+      "ptype": "magazine",
+      "link": "http://salud.tabasco.gob.mx/content/revista"
+    },
+    {
+      "id": 16,
+      "name": "Pensamiento y Gestión",
+      "ptype": "magazine",
+      "link": "http://rcientificas.uninorte.edu.co/index.php/pensamiento"
+    },
+    {
+      "id": 17,
+      "name": "Revista Cubana de Salud Pública",
+      "ptype": "magazine",
+      "link": "http://www.sld.cu/sitios/revsalud/index.php"
+    },
+    {
+      "id": 18,
+      "name": "Marketing Farmacéutico",
+      "ptype": "magazine",
+      "link": "http://www.pmfarma.com/"
+    },
+    {
+      "id": 19,
+      "name": "Revista Virtual Odontología Ejercio Profesional",
+      "ptype": "magazine",
+      "link": "http://www.odontomarketing.com/anteriores.htm"
+    },
+    {
+      "id": 20,
+      "name": "Salud Pública de México",
+      "ptype": "magazine",
+      "link": "http://bvs.insp.mx/rsp/inicio/"
+    }
+  ],
+  "agreements": [
+    {
+      "id": 1,
+      "name": "Convenio Red Iberoamericana en Mercadotecnia en Salud y Universidad Particular Chiclayo",
+      "date": 1440997200000,
+      "link": ""
+    },
+    {
+      "id": 2,
+      "name": "Convenio marco de cooperación entre la Academia Internacional de Odontología Integral (AIOI) y la RIMS",
+      "date": 1438059600000,
+      "link": ""
+    },
+    {
+      "id": 3,
+      "name": "Convenio marco de cooperación entre la Universidad Antonio Nariño (Colombia y la Red Iberoamericana en Mercadotecnia en Salud.",
+      "date": 1438059600000,
+      "link": ""
+    },
+    {
+      "id": 4,
+      "name": "Acuerdo Marco de Cooperación fundación Salud “Dr. Augusto Turenne” (Uruguay) y la Red Iberoamerciana de Mercadotecnia en Salud",
+      "date": 1439182800000,
+      "link": ""
+    },
+    {
+      "id": 5,
+      "name": "Convenio de cooperación entre el Centro de Investigaciones y Estudios de la Salud, “CIES-UNAN” y la Red Iberoamericana en Mercadotecnia en Salud “RIMS”",
+      "date": 1397019600000,
+      "link": ""
+    },
+    {
+      "id": 6,
+      "name": "Acuerdo marco de cooperación consumers International – Red Iberoamericana de Mercadotecnia en Salud",
+      "date": 1386655200000,
+      "link": ""
+    },
+    {
+      "id": 7,
+      "name": "Convenio Marco de Cooperación entre el Colegio de Postgraduados en Administración de la República Mexicana A.C. y la Red Iberoamericana de Mercadotecnia en Salud 2013",
+      "date": 1376888400000,
+      "link": ""
+    },
+    {
+      "id": 8,
+      "name": "Convenio General de Colaboración Académcia, científica, Cultural, Tecnológica y de Mutuo Apoyo UJAT-RIMS",
+      "date": 1357624800000,
+      "link": ""
+    },
+    {
+      "id": 9,
+      "name": "Convenio marco de cooperación entre la Escuela Nacional de Salud Pública (Cuba) y la Red Iberoamericana de Mercadotecnia en Salud.",
+      "date": 1334120400000,
+      "link": ""
+    },
+    {
+      "id": 10,
+      "name": "Convenio general de colaboración académica, científica, cultural, tecnológica y de mutuo apoyo entre la Universidad Autónoma de Tlaxcala (México) y la Red Iberoamericana de Mercadotecnia en Salud.",
+      "date": 1334120400000,
+      "link": ""
+    },
+    {
+      "id": 11,
+      "name": "Convenio general de cooperación académica y cultural entre la Universidad de Costa Rica (San José, Costa Rica) Facultad de Medicina y la Red Iberoamericana de Mercadotecnia en Salud, A.C. (Villahermosa México)",
+      "date": 1332136800000,
+      "link": ""
+    },
+    {
+      "id": 12,
+      "name": "Convenio marco de cooperación entre el Instituto Técnico Superior Libertad (Ecuador) y la RED Iberoamericana de Mercadotecnia en Salud, A.C.",
+      "date": 1334811600000,
+      "link": ""
+    },
+    {
+      "id": 13,
+      "name": "Convenio de cooperación entre la Universidad Técnica Particular de Loja (Ecuador), y la Red Iberoamericana de Mercadotecnia en Salud",
+      "date": 1328076000000,
+      "link": ""
+    },
+    {
+      "id": 14,
+      "name": "Convenio marco de cooperación mutua entre el Centro Chileno de Estudios Latinoamericanos en Psicología de la Salud y la Red Iberoamericana de Mercadotecnia en Salud.",
+      "date": 1313038800000,
+      "link": ""
+    },
+    {
+      "id": 15,
+      "name": "Carta de entendimiento entre la Red Iberoamericana de Mercadotecnia en Salud y la Universidad de Costa Rica",
+      "date": 1330063200000,
+      "link": ""
+    },
+    {
+      "id": 16,
+      "name": "Convenio entre La Asociación Ecuatoriana de Facultades de Medicina Y CIENCIAS DE LA SALUD . AFEME y la Red Iberoamericana de Mercadotecnia en Salud, a. c. 2009",
+      "date": 1248670800000,
+      "link": ""
+    },
+    {
+      "id": 17,
+      "name": "Acuerdo de apoyo financiero que celebran por una parte el Consejo de Ciencia y Tecnología del estado de Tabasco “el CCYTET” y por la otra, la Red Iberoamericana de Mercadotecnia en salud, A.C.",
+      "date": 1218776400000,
+      "link": ""
+    },
+    {
+      "id": 18,
+      "name": "Convenio marco de cooperación entre la universidad de Panamá y la Red Iberoamericana de mercadotecnia en salud, A.C. 2007",
+      "date": 1175061600000,
+      "link": ""
+    },
+    {
+      "id": 19,
+      "name": "Convenio Marco De Cooperación Entre El Colegio De Investigadores De Tabasco A. C. Y La Red Iberoamericana De Mercadotecnia En Salud, A. C. 2007",
+      "date": 1178773200000,
+      "link": ""
+    },
+    {
+      "id": 20,
+      "name": "Convenio Marco De Cooperación Entre El Colegio De Administradores En Salud De Tabasco A.C. Y La Red Iberoamericana De Mercadotecnia En Salud, A.C. 2007",
+      "date": 1178514000000,
+      "link": ""
+    }
+  ]
+}
